@@ -1,0 +1,8 @@
+prefix=/home/athrva/Desktop/testing_workspace/devel
+
+Name: point_cloud_io
+Description: Description of point_cloud_io
+Version: 0.3.5
+Cflags: -I/home/athrva/Desktop/testing_workspace/src/point_cloud_io/include
+Libs: -L${prefix}/lib 
+Requires: pcl_ros roscpp sensor_msgs

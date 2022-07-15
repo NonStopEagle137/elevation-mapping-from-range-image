@@ -1,0 +1,8 @@
+prefix=/home/athrva/Desktop/testing_workspace/devel
+
+Name: kindr
+Description: Description of kindr
+Version: 1.3.5
+Cflags: -I/home/athrva/Desktop/testing_workspace/src/kindr/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: 

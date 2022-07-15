@@ -1,0 +1,8 @@
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="kindr_rviz_plugins"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-DQT_NO_KEYWORDS
+-o
+/home/athrva/Desktop/testing_workspace/build/kindr_ros/kindr_rviz_plugins/include/kindr_rviz_plugins/moc_VectorAtPositionDisplay.cpp
+/home/athrva/Desktop/testing_workspace/src/kindr_ros/kindr_rviz_plugins/include/kindr_rviz_plugins/VectorAtPositionDisplay.hpp

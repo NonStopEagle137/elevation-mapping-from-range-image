@@ -1,0 +1,8 @@
+prefix=/home/athrva/Desktop/testing_workspace/devel
+
+Name: kindr_rviz_plugins
+Description: Description of kindr_rviz_plugins
+Version: 0.3.5
+Cflags: -I/home/athrva/Desktop/testing_workspace/src/kindr_ros/kindr_rviz_plugins/include
+Libs: -L${prefix}/lib -lkindr_rviz_plugins
+Requires: rviz kindr_msgs

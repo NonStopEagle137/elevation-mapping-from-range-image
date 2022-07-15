@@ -1,0 +1,8 @@
+prefix=/home/athrva/Desktop/testing_workspace/devel
+
+Name: testing
+Description: Description of testing
+Version: 2.0.1
+Cflags: -I/home/athrva/Desktop/testing_workspace/src/testing/include
+Libs: -L${prefix}/lib -ldepthmap2cloud
+Requires: tf2_ros tf2_geometry_msgs pcl_conversions pcl_ros sensor_msgs cv_bridge roscpp std_msgs image_transport

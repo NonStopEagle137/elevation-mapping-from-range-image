@@ -1,0 +1,8 @@
+prefix=/home/athrva/Desktop/testing_workspace/devel
+
+Name: grid_map_demos
+Description: Description of grid_map_demos
+Version: 1.6.9
+Cflags: -I/home/athrva/Desktop/testing_workspace/src/grid_map/grid_map_demos/include
+Libs: -L${prefix}/lib 
+Requires: 
